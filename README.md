@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+## About me :)
+I am a 1st year computer science engineering student @MIT, Manipal. I live in Bangalore. 
+
+## Technologies:
+I am interseted in Artificial Intelligence and Machine Learning. 
+I am good at coding in languages: Python (5 star hackerrank), C, C++
+
+
+
 <!--
 **haiyashah/haiyashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
