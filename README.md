@@ -8,9 +8,8 @@ I am interested in Artificial Intelligence and Machine Learning.
 I am good at coding in languages: Python, C, C++
 
 ### Hobbies:
-'''diff
-+ Chess
-'''
+I love playing Chess, Basketball, Skating, Badminton. 
+I love travelling ✈️🌏
 
 <!--
 **haiyashah/haiyashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
