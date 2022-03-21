@@ -5,7 +5,7 @@ I am a 1st year computer science engineering student @MIT, Manipal. I live in Ba
 
 ## Technologies:
 I am interested in Artificial Intelligence and Machine Learning. 
-I am good at coding in languages: Python, C, C++
+I am good at coding in languages: Python (5 🌟 HackerRank) , C, C++
 
 ### Hobbies:
 I love playing Chess, Basketball, Skating, Badminton. 
