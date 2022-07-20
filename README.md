@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
 
 ## About me :)
-I am a 1st year computer science engineering student @MIT, Manipal. I live in Bangalore. 
+I am a 2nd year computer science engineering student @MIT, Manipal. I live in Bangalore. 
 
 ## Technologies:
 I am interested in Artificial Intelligence and Machine Learning. 
