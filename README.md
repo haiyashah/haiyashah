@@ -4,7 +4,7 @@
 I am a 2nd year computer science engineering student @MIT, Bangalore. 
 
 ## Experience: 
-GSSOC Open source 
+Girl Script Summer of Code (Open source) 
 
 ## Technologies:
 I am interested in Artificial Intelligence and Machine Learning. 
