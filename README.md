@@ -8,7 +8,7 @@ Girl Script Summer of Code (Open source)
 
 ## Technologies:
 I am interested in Artificial Intelligence and Machine Learning. 
-I am good at coding in languages: Python (5 🌟 HackerRank) , C, C++
+I am good at coding in languages: Python (5 🌟 HackerRank) , C (3 star HacerRank), C++, Java
 
 ### Hobbies:
 I love playing Chess, Basketball, Skating, Badminton. 
