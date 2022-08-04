@@ -1,4 +1,4 @@
-### Hey there!
+### Hey there! 👋
 
 ## About me :)
 I am a 2nd year computer science engineering student @MIT, Bangalore. 
