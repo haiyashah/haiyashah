@@ -1,14 +1,11 @@
 ### Hey there! 👋
 
-## About me :)
-I am a 2nd year computer science engineering student @MIT, Bangalore. 
-
-## Experience: 
-Girl Script Summer of Code (Open source) 
+## About me :
+I am a 2nd year computer science engineering student @MIT, Bangalore.  
 
 ## Technologies:
 I am interested in Artificial Intelligence and Machine Learning. 
-I am good at coding in languages: Python (5 🌟 HackerRank) , C (3 star HacerRank), C++, Java
+I code in Python (5 🌟 HackerRank) , C (3 star HackerRank), C++, Java
 
 ### Hobbies:
 I love playing Chess, Basketball, Skating, Badminton. 
