@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 <br />
 
-## 🧰 Languages and Tools:
+### 🧰 Languages and Tools:
 <p align="center">
 <a href = "https://github.com/haiyashah"><img src = "https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,git,github,django,latex,matlab,c,tensorflow" height = 90></a>
 <hr>
