@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ## 🧰 Languages and Tools:
 <p align="center">
-<a href = "https://github.com/haiyashah"><img src = "https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,windows,github,django,keras" height = 90></a>
+<a href = "https://github.com/haiyashah"><img src = "https://skillicons.dev/icons?i=python,java,cpp,html,css,javascript,mysql,windows,git,github,django,keras" height = 90></a>
 <hr>
 
 </p>
