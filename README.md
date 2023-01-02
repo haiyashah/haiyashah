@@ -1,13 +1,13 @@
-### Hey there! 👋
+## Hey there! 👋
 
-## About me :
+## 👩🏻‍💻About me :
 I am a 2nd year computer science engineering student @MIT, Bangalore.  
 
-## Technologies:
+## 💻 Technologies:
 I am interested in Artificial Intelligence and Machine Learning. 
 I code in Python (5 🌟 HackerRank) , C (3 star HackerRank), C++, Java
 
-### Hobbies:
+## ♟️Hobbies:
 I love playing Chess, Basketball, Skating, Badminton. 
 I love travelling ✈️🌏
 
@@ -30,9 +30,12 @@ Here are some ideas to get you started:
 
 
 <p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ 
+ <a href="https://github.com/haiyashah" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+
+ <a href="https://www.linkedin.com/in/haiyashah/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ 
+ <a href="haiya307@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br />
