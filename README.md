@@ -53,18 +53,20 @@ Here are some ideas to get you started:
 ### 📘 Blog posts
   [Artificial Intelligence](https://artificialintelligencehs.blogspot.com/)
   
-### 🏆 My Github Stats:
+
+### :trophy: My Github Stats:
 
 <!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=haiyashah&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=haiyashah&hide=php&theme=tokyonight)
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
 -->
 <div>
-<a href="https://github-readme-stats.vercel.app/api?username=haiyashah&theme=tokyonight">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=haiyashah&count_private=true&show_icons=true&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haiyashah&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiyashah&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
 </a>
 </div>
+
           
