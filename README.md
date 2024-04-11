@@ -1,30 +1,16 @@
-### Hey there! 👋
+Passionate about AI integration and driven by innovation, I am Haiya Shah, currently pursuing my Bachelor's in Computer Science at MIT Manipal. With a keen interest in Artificial Intelligence, I've garnered hands-on experience through diverse internships and projects, aiming to push the boundaries of technology and create impactful solutions.
 
-### 👩🏻‍💻About me :
-I am a computer science engineering student @MIT, Bangalore.  
+🎓 Intern @ Indian Institute of Space Technology
+💼 ML Intern @ Amazon Women Team
+🔬 Generative AI Intern @ Recotap ABM
+🏆 Research Paper Presenter | 3rd Place @ IIT Madras Presentation Competition
+🛠️ Proficient in Python, Java, C++, MERN Stack, and more
+💡 Beta Open Source Contributor | GSSOC
+🎯 Leetcode Rating: 1513 Biweekly, 1464 Weekly 
+📚 Key Courses: Data Structures, Algorithms, Machine Learning
+🌐 Passionate about driving innovation and making a meaningful impact
 
-### 💻 Technologies:
-I am interested in Artificial Intelligence and Machine Learning. 
-I code in Python (5 🌟 HackerRank) , C (3 star HackerRank), C++, Java
-
-### ♟️Hobbies:
-I love playing Chess, Basketball, Skating, Badminton. 
-I love travelling ✈️🌏
-
-<!--
-**haiyashah/haiyashah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+With a strong foundation in programming and a knack for problem-solving, I bring a unique blend of technical expertise and creativity to the table. From developing cutting-edge AI models to collaborating on open-source projects, I thrive in dynamic environments where I can apply my skills to drive tangible results. Let's connect and explore opportunities to innovate together, shaping a brighter future through technology.
 
 ### ✉️ Find me on:
 
