@@ -1,7 +1,7 @@
 ### Hey there! 👋
 
 ### 👩🏻‍💻About me :
-I am a 2nd year computer science engineering student @MIT, Bangalore.  
+I am a computer science engineering student @MIT, Bangalore.  
 
 ### 💻 Technologies:
 I am interested in Artificial Intelligence and Machine Learning. 
