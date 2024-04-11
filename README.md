@@ -1,3 +1,5 @@
+# Hey There!
+
 Passionate about AI integration and driven by innovation, I am Haiya Shah, currently pursuing my Bachelor's in Computer Science at MIT Manipal. With a keen interest in Artificial Intelligence, I've garnered hands-on experience through diverse internships and projects, aiming to push the boundaries of technology and create impactful solutions.
 <ul>
 <li>🎓 Intern @ Indian Institute of Space Technology</li>
