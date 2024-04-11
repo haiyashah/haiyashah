@@ -1,15 +1,15 @@
 Passionate about AI integration and driven by innovation, I am Haiya Shah, currently pursuing my Bachelor's in Computer Science at MIT Manipal. With a keen interest in Artificial Intelligence, I've garnered hands-on experience through diverse internships and projects, aiming to push the boundaries of technology and create impactful solutions.
-
-🎓 Intern @ Indian Institute of Space Technology
-💼 ML Intern @ Amazon Women Team
-🔬 Generative AI Intern @ Recotap ABM
-🏆 Research Paper Presenter | 3rd Place @ IIT Madras Presentation Competition
-🛠️ Proficient in Python, Java, C++, MERN Stack, and more
-💡 Beta Open Source Contributor | GSSOC
-🎯 Leetcode Rating: 1513 Biweekly, 1464 Weekly 
-📚 Key Courses: Data Structures, Algorithms, Machine Learning
-🌐 Passionate about driving innovation and making a meaningful impact
-
+<ul>
+<li>🎓 Intern @ Indian Institute of Space Technology</li>
+<li>💼 ML Intern @ Amazon Women Team</li>
+<li>🔬 Generative AI Intern @ Recotap ABM</li>
+<li>🏆 Research Paper Presenter | 3rd Place @ IIT Madras Presentation Competition</li>
+<li>🛠️ Proficient in Python, Java, C++, MERN Stack, and more</li>
+<li>💡 Beta Open Source Contributor | GSSOC</li>
+<li>🎯 Leetcode Rating: 1513 Biweekly, 1464 Weekly </li>
+<li>📚 Key Courses: Data Structures, Algorithms, Machine Learning</li>
+<li>🌐 Passionate about driving innovation and making a meaningful impact</li>
+</ul>
 With a strong foundation in programming and a knack for problem-solving, I bring a unique blend of technical expertise and creativity to the table. From developing cutting-edge AI models to collaborating on open-source projects, I thrive in dynamic environments where I can apply my skills to drive tangible results. Let's connect and explore opportunities to innovate together, shaping a brighter future through technology.
 
 ### ✉️ Find me on:
